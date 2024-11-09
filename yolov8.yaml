@@ -1,0 +1,7 @@
+# Paths
+train: /content/debris-detection/train/images  # Training image directory
+val:  /content/debris-detection/val/images  # Validation image directory
+
+# Classes
+nc: 1  # Number of classes
+names: ['Space Debris']  # Class names
